@@ -6,7 +6,8 @@ var user_so_ids_array = ["184367", // stefan
                         "62368", // victor
                         "2630039", // fran
                         "2096817", // adam
-                        "595245" // luciano
+                        "595245", // luciano
+                        "972850"  // jordi
                         ];
 var so_user_ids = "";
 for (var i = 0, len = user_so_ids_array.length; i<len; i++){
